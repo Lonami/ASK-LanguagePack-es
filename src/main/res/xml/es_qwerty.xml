@@ -11,12 +11,12 @@
         <Key android:codes="121" android:keyLabel="y" android:popupCharacters="ýÿ¥ψ"/>
         <Key android:codes="117" android:keyLabel="u" android:popupCharacters="úùûüűŭūṷůꓵµ"/>
         <Key android:codes="105" android:keyLabel="i" android:popupCharacters="íìî̇ïĩīǐɨĳι"/>
-        <Key android:codes="111" android:keyLabel="o" android:popupCharacters="óòôõöøőœōꓳðσ🅾"/>
-        <Key android:codes="112" android:keyLabel="p" android:popupCharacters="ṗꓒπ🅿" android:keyEdgeFlags="right"/>
+        <Key android:codes="111" android:keyLabel="o" android:popupCharacters="óòôõöøőœōꓳðσ"/>
+        <Key android:codes="112" android:keyLabel="p" android:popupCharacters="ṗꓒπ" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="97" android:keyLabel="a" android:popupCharacters="áàâăäąåãꓯæ🅰" android:keyEdgeFlags="left"/>
+        <Key android:codes="97" android:keyLabel="a" android:popupCharacters="áàâăäąåãꓯæ" android:keyEdgeFlags="left"/>
         <Key android:codes="115" android:keyLabel="s" android:popupCharacters="ßśŝšș§√σ"/>
         <Key android:codes="100" android:keyLabel="d" android:popupCharacters="ḋđďꓷδ"/>
         <Key android:codes="102" android:keyLabel="f" android:popupCharacters="ḟꓞϕ"/>
@@ -35,9 +35,9 @@
         <Key android:codes="120" android:keyLabel="x" android:popupCharacters="ξχ"/>
         <Key android:codes="99" android:keyLabel="c" android:popupCharacters="çćĉčċ¢©ꓛγ"/>
         <Key android:codes="118" android:keyLabel="v" android:popupCharacters="ꓦꓥ"/>
-        <Key android:codes="98" android:keyLabel="b" android:popupCharacters="ḃþꓭβ🅱"/>
+        <Key android:codes="98" android:keyLabel="b" android:popupCharacters="ḃþꓭβ"/>
         <Key android:codes="110" android:keyLabel="n" android:popupCharacters="ñńņŋν"/>
-        <Key android:codes="109" android:keyLabel="m" android:popupCharacters="ṁμⓂ"/>
+        <Key android:codes="109" android:keyLabel="m" android:popupCharacters="ṁμ"/>
         <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
