@@ -5,7 +5,7 @@
     <Row>
         <Key android:codes="113" android:keyLabel="q" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:keyLabel="w" android:popupCharacters="ŵω"/>
-        <Key android:codes="101" android:keyLabel="e" android:popupCharacters="éèêẽëęẻēꓱ€"/>
+        <Key android:codes="101" android:keyLabel="e" android:popupCharacters="éèêẽëęẻēꓱ€ε"/>
         <Key android:codes="114" android:keyLabel="r" android:popupCharacters="ṙřŕ₨ꓤρ"/>
         <Key android:codes="116" android:keyLabel="t" android:popupCharacters="ŧțťţ™ꓕτ"/>
         <Key android:codes="121" android:keyLabel="y" android:popupCharacters="ýÿ¥ψ"/>
