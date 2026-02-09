@@ -1,3 +1,7 @@
+Moved to https://codeberg.org/Lonami/ASK-LanguagePack-es. The GitHub repository may be deleted in the future.
+
+---
+
 This is pretty much [AnySoftKeyboard/LanguagePack](https://github.com/AnySoftKeyboard/LanguagePack)
 Spanish branch, but without all the clutter I need (such as a Catalonia keyboard- who needs that?).
 
